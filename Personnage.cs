@@ -1,1 +1,5 @@
-ceci est undeuxième test 
+Personnage {
+    void frapper (Personnage personnage, int force){
+        
+    }
+}
