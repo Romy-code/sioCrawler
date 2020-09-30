@@ -27,4 +27,14 @@ site web permettant à un joueur de s'inscrire en ligne le projet prévoit le pr
 
 ![acteurFluxInscription.PNG](/imagesTpGit/acteurFluxInscription.PNG)
 
+## sio crawler le jeu##
+
+le joueur possedera les fonctionnalités suivantes.
+
+![useCasePersonnage.PNG](/imagesTpGit/useCasePersonnage.PNG)
+
+les classes developpées.
+
+![diagrammeClassePersonnage.PNG](/imagesTpGit/diagrammeClassePersonnage.PNG)
+
 
