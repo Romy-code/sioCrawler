@@ -25,6 +25,6 @@ Le développement tourne autour de 3 grandes parties
 
 site web permettant à un joueur de s'inscrire en ligne le projet prévoit le principe suivant pour l'inscription en ligne
 
-![acteurFluxInscription.PNG](file:///P:/Ann%C3%A9e%202/si7/tp%20git/imagesTpGit/acteurFluxInscription.PNG)
+![acteurFluxInscription.PNG](/imagesTpGit/acteurFluxInscription.PNG)
 
 
